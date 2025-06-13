@@ -1,6 +1,5 @@
 ## <div align="center">  Awnhon 👋 I'm MingMeiii
  ![My Animation]( https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI1MGQ2Mmczd3gweDN2dTU3aHF0MzV3M3A0am5udGpiMXhhZzd4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SruFaLmWflW5EqM8W8/giphy.gif)
- ![My Animation](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXU1Znd5NHg5YnZqYnp6Nml0OW1zZnhmam94dGwxZ3owa2w3MTlqOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YFXg3ASJFWJrdlGqKg/giphy.gif)
 ## 💻 My Skills
  SLEEP 
 ## 📫 Contact me 
