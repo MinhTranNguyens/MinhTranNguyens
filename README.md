@@ -8,11 +8,11 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhTranNguyens&layout=compact&theme=dracula&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhTranNguyens&layout=compact&theme=buefy&langs_count=10" />
 </p>
 
 ## ⚙️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhTranNguyens&show_icons=true&theme=dracula&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhTranNguyens&show_icons=true&theme=buefy&count_private=true" />
 </p>
