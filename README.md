@@ -5,12 +5,14 @@
 ## 📫 Contact me 
 - [Facebook](https://www.facebook.com/minh.tran.nguyen.10836/)
 - [Gmail](MinhTranNguyen.svn@gmail.com)
-## 📊 Most Used Languages & GitHub Stats
+## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhTranNguyens&layout=compact&theme=dark&langs_count=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhTranNguyens&layout=compact&theme=dracula&langs_count=10" />
 </p>
 
+## ⚙️ GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhTranNguyens&show_icons=true&theme=dark&count_private=true&hide=issues&hide_title=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhTranNguyens&show_icons=true&theme=dracula&count_private=true" />
 </p>
